@@ -12,6 +12,7 @@
 ## 兴趣爱好
 开源 · 写山野诗 · 秦岭草藥 · 成分分析
 
-- **播客**：Apple Podcasts / Spotify 搜『益恒播客』，  
+- **播客**：Apple Podcasts / Spotify
+- 搜『益恒播客』，  
   让秦岭的雾与质谱图一起钻进耳朵。  
   [RSS 订阅](https://anchor.fm/s/108fef5d4/podcast/rss)（泛用型客户端一键订阅）
