@@ -1,7 +1,7 @@
 # Hi there
 
 ## 我是谁
-现役 Web 全栈练习生丨IjanZhan  
+现役 Web 全栈练习生丨ijanZhan  
 主攻：HTML / CSS / JavaScript / Python  
 正在折腾：React & Cloud Native
 
