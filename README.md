@@ -6,8 +6,8 @@
 正在折腾：React & Cloud Native
 
 ## 快速链接
-- 博客：[janzhan.github.io/blog](https://janzhan.github.io/blog)  
+- 博客：[ijanzhan.github.io/blog](https://ijanzhan.github.io/blog)  
 - 邮箱：[zhaoijan@outlook.com](mailto:zhaoijan@outlook.com)
 
 ## 兴趣爱好
-开源 · 写山野诗 · 秦岭草藥 · 成分分析
+开源 · 写山野诗 ·  秦岭草藥 ·  成分分析
