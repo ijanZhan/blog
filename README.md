@@ -9,8 +9,8 @@
 正在折腾：React & CloudNative
 
 快速链接  
-博客：[janzhan.github.io/blog](janzhan.github.io/blog)  
-邮箱：zhaojan@outlook.com  
+博客：[ijanzhan.github.io/blog](ijanzhan.github.io/blog)  
+邮箱：zhaoijan@outlook.com  
 
 兴趣爱好  
 开源 · 自然写作 · 草木 · 剖析 · 设计
