@@ -10,7 +10,7 @@
 - 邮箱：[zhaoijan@outlook.com](mailto:zhaoijan@outlook.com)
 
 ## 兴趣爱好
-开源 · 写山野诗 · 秦岭本草 · 成分解析 · 设计方案
+开源 · 写山野诗 ·秦岭本草 ·成分解析 ·设计方案
 
 - **播客**：Apple Podcasts / Spotify
 - 搜『益恒播客』，  
