@@ -1,1 +1,5 @@
-这是一个用于分享文章的博客存储库，WPis, has mace more words condmid flie for the biog
+<!DOCTYPE html>
+<html>
+<head><title>Blog</title></head>
+<body><h1>Welcome to My Blog</h1></body>
+</html>
