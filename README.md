@@ -17,4 +17,4 @@
 ## 快速链接
 - 博客: [jianzhan.github.io/blog](https://jianzhan.github.io/blog)  
 - 邮箱: zhaoijan@outlook.com
-- 播客：https://anchor.fm/s/108fef5d4/podcast/rss)
+- 播客：https://anchor.fm/s/108fef5d4/podcast/rss
