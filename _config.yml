@@ -1,0 +1,25 @@
+# 站点基本信息
+title: Zhan 的博客
+description: 我的个人博客
+baseurl: /blog         # 匹配仓库名
+url: https://janZhan.github.io
+
+# 主题
+theme: jekyll-theme-minimal
+
+# 文章和集合设置
+collections:
+  shan:                # 定义 /shan 集合
+    output: true
+    permalink: /shan/:name/  # 自定义 URL 结构
+
+defaults:
+  - scope:
+      path: "_posts"
+      type: posts
+    values:
+      layout: post
+
+# 插件（可选，添加 RSS）
+plugins:
+  - jekyll-feed
