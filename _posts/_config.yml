@@ -1,0 +1,6 @@
+title: 我的最简博客
+description: 这是一个最简的 Jekyll 博客示例
+baseurl: "" # 根目录
+url: "https://用户名.github.io"
+
+theme: minima
