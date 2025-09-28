@@ -1,4 +1,2 @@
 title: 我的博客
-description: 这是我的第一个 Jekyll 博客
-baseurl: "" # 如果是 user.github.io 项目，这里保持空
-url: "https://你的用户名.github.io"
+theme: minima   # 你可以换成自己喜欢的 Jekyll 主题
